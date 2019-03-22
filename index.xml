@@ -6,7 +6,6 @@
     <description>Recent content on The MooAI Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Thu, 21 Mar 2019 19:44:13 -0700</lastBuildDate>
     
 	<atom:link href="https://mooai.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +13,10 @@
     
     <item>
       <title>Initial Post</title>
-      <link>https://mooai.github.io/posts/initial-post/</link>
+      <link>https://mooai.github.io/initial-post/</link>
       <pubDate>Thu, 21 Mar 2019 19:44:13 -0700</pubDate>
       
-      <guid>https://mooai.github.io/posts/initial-post/</guid>
+      <guid>https://mooai.github.io/initial-post/</guid>
       <description>This is the first blog post</description>
     </item>
     
