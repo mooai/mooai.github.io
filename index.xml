@@ -21,5 +21,19 @@
       <description>This is the first blog post</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://mooai.github.io/about/</link>
+      <pubDate>Thu, 21 Mar 2019 19:38:15 -0700</pubDate>
+      
+      <guid>https://mooai.github.io/about/</guid>
+      <description>Hello!
+Welcome to the MooAI Group.
+We are graduate students in Computer Science from the University at Buffalo, State University of New York , with avid interest in Machine Learning and Deep Learning.
+This blog is a compilation of the our earlier work in the field of AI, allowing us to advance our knowledge in the domain.
+Cheers,
+MooAI Team</description>
+    </item>
+    
   </channel>
 </rss>
