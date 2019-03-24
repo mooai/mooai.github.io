@@ -1,0 +1,10 @@
+#site-footer {
+  text-align: center;
+  font-size: .9em;
+  margin-bottom: 96px;
+  margin-top: 64px;
+
+  p {
+    margin: 0;
+  }
+}

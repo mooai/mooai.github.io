@@ -33,7 +33,11 @@
   <meta name="theme-color" content="#ffffff">
 
   
+  
+  
   <link rel="stylesheet" href="https://mooai.github.io/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://mooai.github.io/css/mooai-style.css" />
+  <link rel="stylesheet" href="https://mooai.github.io/css/mathjax-style.css" />
 
   
   
@@ -48,6 +52,8 @@
   <style>
 body {
   min-width: 300px;
+  text-align: justify;
+  line-height: 2;
 }
 
 .custom-navbar {
@@ -175,7 +181,7 @@ blockquote,
 </head>
 
 <body>
-  <nav class="custom-navbar navbar-expand-lg navbar-default">
+  <nav class="custom-navbar navbar-expand-lg navbar-fixed-top">
   <div class="container">
     <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-left">
@@ -211,22 +217,6 @@ blockquote,
 <h1>Posts</h1>
 
 
-  <p>
-    <a href="https://mooai.github.io/initial-post/">Initial Post</a>
-    
-    
-    <br>
-    <small class="text-secondary">Mar 21, 2019</small>
-    
-
-<small><code><a href="https://mooai.github.io/tags/machine-learning">Machine Learning</a></code></small>
-
-
-<small><code><a href="https://mooai.github.io/tags/face-detection">Face Detection</a></code></small>
-
-    
-  </p>
-
     </article>
   </div>
 
@@ -260,5 +250,36 @@ window.cookieconsent.initialise({
 </script>
 
 </body>
+<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+    <p>&copy; 2019 <a href="http://mooai.github.io">MooAI Team</a></p>
+</footer>
 
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+  });
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
+
+  MathJax.Hub.Config({
+  
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+</script>
 </html>

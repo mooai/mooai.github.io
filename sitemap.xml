@@ -3,42 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mooai.github.io/initial-post/</loc>
-    <lastmod>2019-03-21T19:44:13-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mooai.github.io/about/</loc>
     <lastmod>2019-03-21T19:38:15-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mooai.github.io/tags/face-detection/</loc>
-    <lastmod>2019-03-21T19:44:13-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mooai.github.io/tags/machine-learning/</loc>
-    <lastmod>2019-03-21T19:44:13-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mooai.github.io/post/</loc>
-    <lastmod>2019-03-21T19:44:13-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mooai.github.io/tags/</loc>
-    <lastmod>2019-03-21T19:44:13-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mooai.github.io/</loc>
-    <lastmod>2019-03-21T19:44:13-07:00</lastmod>
+    <lastmod>2019-03-21T19:38:15-07:00</lastmod>
     <priority>0</priority>
   </url>
   
